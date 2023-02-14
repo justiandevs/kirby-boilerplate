@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4388691-0f46-4c3e-a90b-e86911ca3a53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/normalize.css" afterDir="false" />
+    <list default="true" id="c4388691-0f46-4c3e-a90b-e86911ca3a53" name="Changes" comment="NormalizeCSS support, PostCSS support, PostCSS-nested and PostCSS-import support">
+      <change afterPath="$PROJECT_DIR$/content/second/second.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/templates/home.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/templates/second.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/home/home.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/home.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/snippets/footer.twig" beforeDir="false" afterPath="$PROJECT_DIR$/site/snippets/footer.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/snippets/header.twig" beforeDir="false" afterPath="$PROJECT_DIR$/site/snippets/header.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/templates/default.twig" beforeDir="false" afterPath="$PROJECT_DIR$/site/templates/default.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/normalize.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +73,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -89,8 +98,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676317291116</updated>
-      <workItem from="1676317292866" duration="12989000" />
+      <workItem from="1676317292866" duration="14842000" />
     </task>
+    <task id="LOCAL-00001" summary="NormalizeCSS support, PostCSS support, PostCSS-nested and PostCSS-import support">
+      <created>1676371247423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676371247423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +123,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NormalizeCSS support, PostCSS support, PostCSS-nested and PostCSS-import support" />
+    <option name="LAST_COMMIT_MESSAGE" value="NormalizeCSS support, PostCSS support, PostCSS-nested and PostCSS-import support" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
