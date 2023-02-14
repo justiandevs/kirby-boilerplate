@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4388691-0f46-4c3e-a90b-e86911ca3a53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/config/config.localhost.php" beforeDir="false" afterPath="$PROJECT_DIR$/site/config/config.localhost.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/snippets/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/site/snippets/footer.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/snippets/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/site/snippets/header.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/templates/default.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/home.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/home/home.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +59,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.css.dialects",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676317291116</updated>
-      <workItem from="1676317292866" duration="10396000" />
+      <workItem from="1676317292866" duration="12989000" />
     </task>
     <servers />
   </component>
@@ -102,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

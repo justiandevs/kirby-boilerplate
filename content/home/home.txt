@@ -1,1 +1,1 @@
-Title: Kirby Boilerplate using Kirby CMS, Vite, GSAP, BarbaJS, SCSS and Twig
+Title: Kirby Boilerplate using Kirby CMS, Vite, GSAP, BarbaJS, PostCSS, Twig, NormalizeCSS, PostCSS-nested and PostCSS import

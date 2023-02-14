@@ -1,4 +1,4 @@
-# Kirby Boilerplate using Kirby CMS, Vite, GSAP, BarbaJS, SCSS and Twig
+# Kirby Boilerplate using Kirby CMS, Vite, GSAP, BarbaJS, PostCSS, Twig, NormalizeCSS, PostCSS-nested and PostCSS import
 ## Features
 
 - ⚡️ Uses [Vite](https://vitejs.dev/) with [kirby-vite](https://github.com/arnoson/kirby-vite) plugin
@@ -6,7 +6,7 @@
 - 📂 [Public folder structure](https://getkirby.com/docs/guide/configuration#custom-folder-setup__public-folder-setup)
 - 💻 Using [Twig](https://twig.symfony.com/) with [kirby-twig](https://github.com/amteich/kirby-twig) plugin
 - Using [Gsap](https://greensock.com/)
-- Using [SCSS](https://sass-lang.com/)
+- Using [PostCSS](https://postcss.org/)
 - Using [BarbaJS](https://barba.js.org/)
 
 ## Installation
